@@ -9,7 +9,7 @@ In the first folder (named "1.data"), it contains the cases data required for th
 In the code folder (named "2.code"), it contains the following:
 
 1.Data fitting and plot CF trend(named "1.fitted_multi-chian.R")
-2.R0 calculation ("2.r0.R")
+2.R0 calculation ("2.r0.R") /n
 3.Simulate the trends under different types of interventions and at different timings ("3.simulate_foshan_combind_measures+timing.R")
 4. Plot the results of different scenarios ("4. plot_scenarios_result.R")
 5. Population dynamics of each compartment under the simulated baseline scenario ("5. population dynamics of all compartments.R")
