@@ -20,4 +20,17 @@ In the code folder (named "2.code"), it contains the following:
 
 The code 'CHIKV-model.R' contains the baseline model 'CHIKV_model' and the intervention model 'CHIKV_model_with_combind_intervention'. The codes 'fixed parameters.R' and 'init_value & fixed parameters.R' contain the model's fixed parameters and some initial values. The codes 'plot function.R' and 'Fig 5 & Fig S13.ipynb' are used to store the code for plotting the model results. The code 'result_sim.R' is used to summarize the results.
 The results file is used to store the results of data analysis and visualization.
+
+
+### MCTM file
+In this file, in the first folder (named "1.data"), it contains the data required for MCTM, including "address.xlsx" (which records the addresses and latitude/longitude of all districts in Foshan),  "Foshan_cases.xslx"(wihch same as the data in model CCTM), "Foshan_cases_byDistrict.xlsx" (this data recoreds the CF cases of different districts), "Foshan-baidu migration index.xlsx" (the baidu migration index in Foshan), "OD(fs).xlsx" (records the distance between different districts)
+
+In the code folder (named "2.code"), it contains the following:
+#### 0.Generate OD matrix based on longitude and latitude ("0. Calculate OD.R")
+#### 1.Data fitting (named "1.fitting_MCTM.R")
+#### 2.Simulate the trends under baseline scenario in MCTM("2.simulate_foshan_combinded_measures_meta population.R")
+#### 3.Simulate the trends under different types of interventions ("3.simulate_foshan_combinded_measures_meta population_intervention.R")
+
+The code 'Metapopulation_model.R' contains the baseline model 'Foshan_Meta_Model' and the intervention model 'Foshan_Meta_Model_intervention'.  The code 'init_meta_parameters.R' contain the model's parameters.
+
 The R version is available on CRAN https://cran.r-project.org/mirrors.html. The Python version is available at https://www.python.org/downloads/.
