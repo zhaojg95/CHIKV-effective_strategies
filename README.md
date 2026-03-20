@@ -16,7 +16,7 @@ In the code folder (named "2.code"), it contains the following:
 #### 6.1 Validation of model predictions under intervention scenarios("validation_combind_measures_result.R")
 #### 6.2 validation of the model’s performance in simulating mosquito population dynamics ("6.2 validation_MOI&Nm.R")
 #### 7.Evaluate the actual proportion of mosquitoes removed each day ("7. actual daily removal proportions.R")
-8.Sensitivity analysis ("8. Sensitivity analysis -- parameter & nitial value.R")
+#### 8.Sensitivity analysis ("8. Sensitivity analysis -- parameter & nitial value.R")
 
 The code 'CHIKV-model.R' contains the baseline model 'CHIKV_model' and the intervention model 'CHIKV_model_with_combind_intervention'. The codes 'fixed parameters.R' and 'init_value & fixed parameters.R' contain the model's fixed parameters and some initial values. The codes 'plot function.R' and 'Fig 5 & Fig S13.ipynb' are used to store the code for plotting the model results. The code 'result_sim.R' is used to summarize the results.
 The results file is used to store the results of data analysis and visualization.
