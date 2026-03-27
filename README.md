@@ -1,9 +1,9 @@
 # CHIKV-effective_strategies
 Effective strategies to control the largest chikungunya fever outbreak in China
 
-The projecet primary analyzes the effective strategies to control the largest chikungunya fever outbreak in China in 2025, including two models:  City-level Chikungunya Transmission Model (the code in CCTM file), and Multi-district Chikungunya Transmission Model (the code in MCTM file). In CCTM and MCTM files, all include three main folders: (1) data, (2) code, and (3) result.
+The projecet primary analyzes the effective strategies to control the largest chikungunya fever outbreak in China in 2025, including two models:  City-level Chikungunya Transmission Model (the code in CCTM folder), and Multi-district Chikungunya Transmission Model (the code in MCTM folder). In CCTM and MCTM folders, all include three main folders: (1) data, (2) code, and (3) result.
 
-### CCTM file
+### CCTM folder
 In the first folder (named "1.data"), it contains the cases data required for the manuscript (named Foshan_cases.xlsx). The first sheet is the data for simulation fitting (Sheet1), and the second sheet is the data for model validation (Sheet2). The second data was the MOI data during 2018-2023, which is used to validate the model’s performance in simulating mosquito population dynamics.
 
 In the code folder (named "2.code"), it contains the following:
@@ -22,7 +22,7 @@ The code 'CHIKV-model.R' contains the baseline model 'CHIKV_model' and the inter
 The results file is used to store the results of data analysis and visualization.
 
 
-### MCTM file
+### MCTM folder
 In this file, in the first folder (named "1.data"), it contains the data required for MCTM, including "address.xlsx" (which records the addresses and latitude/longitude of all districts in Foshan),  "Foshan_cases.xslx"(wihch same as the data in model CCTM), "Foshan_cases_byDistrict.xlsx" (this data recoreds the CF cases of different districts), "Foshan-baidu migration index.xlsx" (the baidu migration index in Foshan), "OD(fs).xlsx" (records the distance between different districts)
 
 In the code folder (named "2.code"), it contains the following:
