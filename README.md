@@ -34,3 +34,15 @@ In the code folder (named "2.code"), it contains the following:
 The code 'Metapopulation_model.R' contains the baseline model 'Foshan_Meta_Model' and the intervention model 'Foshan_Meta_Model_intervention'.  The code 'init_meta_parameters.R' contain the model's parameters.
 
 The R version is available on CRAN https://cran.r-project.org/mirrors.html. The Python version is available at https://www.python.org/downloads/.
+
+### 使用授权 / Authorization
+**如需使用本项目代码或数据，请先联系原作者获得授权。**  
+**Please contact the original author for authorization before using the code or data.**
+
+使用者须具备数据安全与隐私保护意识。  
+Users are expected to maintain strong data security and privacy protection awareness.  
+
+Contact: [zhao_jg95@163.com]
+
+
+
