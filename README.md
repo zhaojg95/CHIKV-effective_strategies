@@ -39,8 +39,8 @@ The R version is available on CRAN https://cran.r-project.org/mirrors.html. The
 **如需使用本项目代码或数据，请先联系原作者获得授权。**  
 **Please contact the original author for authorization before using the code or data.**
 
-使用者须具备数据安全与隐私保护意识。  
-Users are expected to maintain strong data security and privacy protection awareness.  
+使用者须具备数据安全与隐私保护意识。  基于本项目发表成果时，请注明引用来源。
+Users are expected to maintain strong data security and privacy protection awareness.  If you publish research or results based on this project, please properly cite the original source.
 
 Contact: [zhao_jg95@163.com]
 
