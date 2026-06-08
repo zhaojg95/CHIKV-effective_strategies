@@ -35,6 +35,8 @@ The code 'Metapopulation_model.R' contains the baseline model 'Foshan_Meta_Model
 
 The R version is available on CRAN https://cran.r-project.org/mirrors.html. The Python version is available at https://www.python.org/downloads/.
 
+### The original data has been removed. If you need to use it, please contact the original author for access.
+
 ### 使用授权 / Authorization
 **如需使用本项目代码或数据，请先联系原作者获得授权。**  
 **Please contact the original author for authorization before using the code or data.**
