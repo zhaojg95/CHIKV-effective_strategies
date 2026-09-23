@@ -78,8 +78,8 @@ Python (available at: https://www.python.org/downloads/)
 The datasets generated and/or analysed in this study are available from Zenodo (https://doi.org/10.5281/zenodo.21413279)
 
 #### Authorization
-如需使用本项目代码或数据，请先联系原作者获得授权。
-Please contact the original author for authorization before using the code or data.
+如需使用本项目的数据，请先联系原作者。
+Please contact the original author for authorization before using the data.
 Users are expected to maintain strong data security and privacy protection awareness. If you publish research or results based on this project, please properly cite the original source.
 
 Contact: zhao_jg95@163.com
