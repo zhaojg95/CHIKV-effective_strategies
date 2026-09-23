@@ -1,5 +1,5 @@
 # CHIKV-effective_strategies
-## Effective strategies to control the largest chikungunya fever outbreak in China
+## Effective strategies to control a large chikungunya fever outbreak in China
 
 ## Overview
 This project analyses effective strategies for controlling the chikungunya fever (CHIKF) outbreak in China in 2025. It contains two models:
