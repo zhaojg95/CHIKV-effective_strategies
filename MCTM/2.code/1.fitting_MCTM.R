@@ -114,14 +114,6 @@ mcmc.res_end <- Sys.time();mcmc.res_end
 
 mcmc_chain1 <- as.mcmc(mcmc.res$pars)
 
-geweke_res1 <- geweke.diag(
-  mcmc_chain1,
-  frac1 = 0.1, 
-  frac2 = 0.5   
-);geweke_res1
-geweke.plot(mcmc_chain1)
-effectiveSize(mcmc_chain1)
-
 # 5. Posterior sample ----------------------------------------------------------
 posterior <- as.data.frame(mcmc.res$pars)
 colnames(posterior) <- fit.par.names
