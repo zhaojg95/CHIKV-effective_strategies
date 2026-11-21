@@ -1,7 +1,5 @@
 # initial value
 Np <- 9698900  #https://tjgb.hongheiku.com/djs/63215.html
-# k <- 15 # The initial ratio of larvae and adult mosquitoes to humans
-# Nm <- Np*k
 
 # fixed parameters
 parms.fixed<- c(a       = 0.145,   #Larval recruitment rate
