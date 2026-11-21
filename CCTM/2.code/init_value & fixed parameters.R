@@ -4,7 +4,7 @@ Np <- 9698900  #https://tjgb.hongheiku.com/djs/63215.html
 # Nm <- Np*k
 
 # fixed parameters
-parms.fixed<- c(a       = 0.145,   #Natural birth rate of Aedes mosquitoes 0.145
+parms.fixed<- c(a       = 0.145,   #Larval recruitment rate
                 n       = 0.0181,  #Proportion of infection through mosquito eggs
                 mu_a    =  0.046,     # Mortality rate of aquatic stage
                 lambda  = 1/11.089,  #Emergence rate
